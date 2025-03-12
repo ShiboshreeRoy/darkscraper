@@ -119,6 +119,42 @@ For issues, feature requests, or questions, please [open an issue](https://githu
 
 ---
 
+## Legal Disclaimer
+
+### 1. **Purpose of the Tool**
+DarkScraper v2.1 is an **educational and research tool** designed to demonstrate the capabilities of web scraping and data extraction techniques. It is intended for **ethical hacking, penetration testing, and cybersecurity research** purposes only.
+
+### 2. **Compliance with Laws**
+- **Facebook’s Terms of Service**: Scraping data from Facebook without explicit permission violates its [Terms of Service](https://www.facebook.com/terms.php). Use this tool only on profiles or data for which you have explicit authorization.
+- **Data Privacy Laws**: Depending on your jurisdiction, scraping personal data may violate laws such as the **General Data Protection Regulation (GDPR)** in the EU, the **California Consumer Privacy Act (CCPA)** in the US, or other local data protection regulations. Ensure compliance with all applicable laws before using this tool.
+
+### 3. **Ethical Use**
+- **Authorization**: Only use this tool on data or profiles for which you have **explicit permission** from the owner.
+- **No Malicious Intent**: Do not use this tool for illegal, unethical, or malicious purposes, including but not limited to:
+  - Harassment
+  - Identity theft
+  - Unauthorized data collection
+  - Violation of privacy rights
+
+### 4. **No Warranty**
+This tool is provided **as-is**, without any warranties or guarantees of any kind, express or implied. The authors and contributors are not responsible for:
+- Any damage or loss caused by the use or misuse of this tool.
+- Legal consequences arising from the use of this tool.
+
+### 5. **Liability**
+The authors, contributors, and distributors of DarkScraper v2.1 are **not liable** for any direct, indirect, incidental, or consequential damages resulting from the use or misuse of this tool. Users assume full responsibility for their actions.
+
+### 6. **Educational Use Only**
+This tool is intended for **educational purposes only**. By using DarkScraper v2.1, you agree to:
+- Use it responsibly and ethically.
+- Respect the privacy and rights of others.
+- Comply with all applicable laws and regulations.
+
+### 7. **Reporting Misuse**
+If you become aware of any misuse of this tool, please report it immediately to the project maintainers or relevant authorities.
+
+---
+
 ## Acknowledgments
 
 - **Selenium**: For browser automation.

@@ -1,6 +1,6 @@
 # DarkScraper v2.1 - Elite Facebook Data Harvester
 
-![DarkScraper Logo](https://via.placeholder.com/150) <!-- Replace with your logo -->
+![DarkScraper Logo](./demo/darkscraper.png) 
 
 **DarkScraper v2.1** is a stealthy, multi-threaded web scraping tool designed for extracting data from Facebook profiles with precision and anonymity. Built with advanced anti-detection measures, proxy rotation, and data enrichment capabilities, it is the ultimate tool for digital reconnaissance. Use responsibly and stay in the shadows.
 
@@ -129,11 +129,11 @@ For issues, feature requests, or questions, please [open an issue](https://githu
 
 **DarkScraper v2.1** - Coded by **Shiboshree Roy** | Date: **2025-03-13**  
 **Stealth Mode: ON** | **Target: Facebook Profiles**
-```
 
 ---
 
 ### Key Improvements:
+
 1. **Professional Tone**: The language is polished and concise, suitable for a professional audience.
 2. **Structure**: Clear sections with headings and subheadings for easy navigation.
 3. **Visuals**: Placeholder for a logo and example code blocks for better readability.
@@ -149,4 +149,3 @@ For issues, feature requests, or questions, please [open an issue](https://githu
 2. Replace placeholders (e.g., logo, GitHub URL) with actual links and images.
 3. Update the `LICENSE` file and `requirements.txt` as needed.
 
-Let me know if you need further adjustments! 🚀
